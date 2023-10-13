@@ -1,0 +1,5 @@
+Q -> Improving accessibility.
+ans -> 1 : Using Heading -- specify the outline of page .
+	2 : Adding proper alt text to images.
+	3 : Add labels to form field.
+	4 : creating accessible PDFs.

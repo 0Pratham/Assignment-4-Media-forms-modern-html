@@ -1,0 +1,7 @@
+Q -> Accessibility
+ans -> Accessibility is the practice of making our website usable by as many people ans possible . While making website 
+	we must think about people with disabilities , those who deal with slow netowrk connections , etc. Accessibility 
+	increase understanding , navigation and intercation , etc things of people with web .
+	All people are not able to see , so that people understand website by sound assistant , therefore we must use alt
+	attribute , so they understand what the image is related to. therefore it is important to create accessible websites.
+	and this will also help in targeting differnt user groups.

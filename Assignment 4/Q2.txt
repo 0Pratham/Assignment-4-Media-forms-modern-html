@@ -1,0 +1,15 @@
+Q -> HTML entities ? 
+ans -> HTML entities are used to to add/use special characters and symbols , that have reserved in HTML syntax .
+	This provide wide range of charaters , allowing us to add icons , geometric shapes , mathematical operators
+	and so on which are not present on keyboard.
+	
+	Commonly used entity->
+	1 -> &alt = <(less than)
+	2 -> &gt = >(gretaer than)
+	3 -> &nbsp = non-breaking space
+	4 -> &amp = &(ampersand)
+	5 -> &copy = copyright symbool
+	
+	We can use 3 entities to represent single character and symbols . Hexadecimal numbers , decimal numbers and by name.
+
+	

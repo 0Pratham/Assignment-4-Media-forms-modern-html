@@ -1,0 +1,8 @@
+Q-> Features oh HTMl 5
+ans -> 1 : Semantic elements
+  	2 : Audio and Video support
+	3 : Form enhacements
+	4 : Local storage
+ 	5 : Responsive images
+	6 : Micro data
+
